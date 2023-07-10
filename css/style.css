@@ -17,7 +17,7 @@ h3 {
 }
 #grueso #node-60 em {
 	padding-left:10px;
-	color:#88ab0c;
+	color:#0C78AB;
 }
 #grueso #node-60.node p {line-height:1em;}
 /* globales */
@@ -33,8 +33,8 @@ body {
 	font-family:'PTSansRegular', sans-serif;
 	font-size:1em;
 	line-height:1.3em;
-	color:#3E4729;
-	background-color:#eff2dc;
+	color:#B422A9;
+	background-color:#DCDCF2;
 	background-repeat:no-repeat;
 	background-position:top right;
 	background-attachment:fixed;
@@ -49,11 +49,11 @@ body.cuerpo_sin_promo.cuerpo_sin_menu #grueso {
 }
 a {
 	text-decoration:none;
-	color:#88ab0c;
+	color:#0C78AB;
 	outline:none;
 }
-a:visited {color:#88ab0c;}
-a:hover {color:#eb8906;}
+a:visited {color:#0C78AB;}
+a:hover {color:#EB0606;}
 a.placeholder {
 	cursor: pointer;
 	cursor: hand;
